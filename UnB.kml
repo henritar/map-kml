@@ -1,0 +1,1463 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>UnB</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Floriano</name>
+			<Placemark>
+				<name>Area_ICC</name>
+				<description><![CDATA[Área Instituto Central de Ciências - Universidade de Brasília]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8729195,-15.760673,0.0 -47.8725493,-15.7618578,0.0 -47.8723133,-15.7624154,0.0 -47.8718948,-15.7630865,0.0 -47.8709319,-15.764496,0.0 -47.8682873,-15.7681588,0.0 -47.8660664,-15.7651851,0.0 -47.8683182,-15.763968,0.0 -47.8695829,-15.7623793,0.0 -47.8700065,-15.7598908,0.0 -47.8729195,-15.760673,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>ICC Norte - UnB</name>
+				<description><![CDATA[Ala Norte do ICC]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8710473,-15.7602161,0.0 -47.8703821,-15.76272,0.0 -47.8696659,-15.7624773,0.0 -47.870366,-15.7600096,0.0 -47.8710473,-15.7602161,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac ICC Norte</name>
+				<description><![CDATA[Estacionamento ICC Norte - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8710473,-15.7602161,0.0 -47.8727746,-15.760691,0.0 -47.8728497,-15.7607736,0.0 -47.8725493,-15.7618578,0.0 -47.8723133,-15.7624154,0.0 -47.8719592,-15.7630091,0.0 -47.8704197,-15.7626064,0.0 -47.8710473,-15.7602161,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>ICC Central - UnB</name>
+				<description><![CDATA[Ala Central do ICC]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8703821,-15.76272,0.0 -47.870146,-15.7632827,0.0 -47.8697276,-15.7639229,0.0 -47.8690302,-15.7646044,0.0 -47.8688747,-15.7647102,0.0 -47.8684428,-15.764101,0.0 -47.8687835,-15.7638713,0.0 -47.8691375,-15.7634789,0.0 -47.8696659,-15.7624773,0.0 -47.8703821,-15.76272,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Sub-Área Circulação ICC/RU</name>
+				<description><![CDATA[Sub-Área de circulação do ICC e RU - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8704197,-15.7626064,0.0 -47.8719592,-15.7630091,0.0 -47.8699851,-15.7657401,0.0 -47.8690302,-15.7646044,0.0 -47.8697276,-15.7639229,0.0 -47.870146,-15.7632827,0.0 -47.8704197,-15.7626064,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>ICC Sul - UnB</name>
+				<description><![CDATA[Ala Sul do ICC]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8688747,-15.7647102,0.0 -47.8667933,-15.7661015,0.0 -47.8663749,-15.7655426,0.0 -47.8684428,-15.764101,0.0 -47.8688747,-15.7647102,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac ICC Sul</name>
+				<description><![CDATA[Estacionamento ICC Sul - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8690302,-15.7646044,0.0 -47.8699851,-15.7657401,0.0 -47.8683275,-15.7680375,0.0 -47.8682095,-15.7680323,0.0 -47.8667933,-15.7661015,0.0 -47.8690302,-15.7646044,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>RU - UnB</name>
+				<description><![CDATA[Restaurante Universitário - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8706074,-15.7648676,0.0 -47.8698617,-15.7643204,0.0 -47.8703821,-15.7636596,0.0 -47.8711116,-15.7641294,0.0 -47.8706074,-15.7648676,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Área BCE/Reitoria</name>
+				<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8700065,-15.7598908,0.0 -47.8695829,-15.7623793,0.0 -47.8683182,-15.763968,0.0 -47.8660664,-15.7651851,0.0 -47.8647602,-15.7633704,0.0 -47.8677964,-15.7592145,0.0 -47.8700065,-15.7598908,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>BCE - UnB</name>
+				<description><![CDATA[Biblioteca Central Estudantil - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8686789,-15.7609905,0.0 -47.8681827,-15.7617829,0.0 -47.8666967,-15.7607814,0.0 -47.8672385,-15.7600405,0.0 -47.8686789,-15.7609905,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac BCE</name>
+				<description><![CDATA[Estacionamento BCE - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8675818,-15.7613777,0.0 -47.8672814,-15.7618062,0.0 -47.8663802,-15.7612177,0.0 -47.8666967,-15.7607814,0.0 -47.8675818,-15.7613777,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac BCE/Reitoria</name>
+				<description><![CDATA[Estacionamento BCE e Reitoria - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8663802,-15.7612177,0.0 -47.8672814,-15.7618062,0.0 -47.8666806,-15.7626813,0.0 -47.8657687,-15.7620746,0.0 -47.8663802,-15.7612177,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Reitoria - UnB</name>
+				<description><![CDATA[Reitoria da Universidade de Brasília]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8670454,-15.7621495,0.0 -47.8676704,-15.7625625,0.0 -47.8670239,-15.763528,0.0 -47.8663936,-15.7631046,0.0 -47.8670454,-15.7621495,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac Reitoria</name>
+				<description><![CDATA[Estacionamento Reitoria - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8669193,-15.7634557,0.0 -47.8665626,-15.7639513,0.0 -47.865884,-15.7634866,0.0 -47.8662569,-15.7630039,0.0 -47.8669193,-15.7634557,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Memorial Darcy Ribeiro</name>
+				<description><![CDATA[Memorial Darcy Ribeiro - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.865884,-15.7634866,0.0 -47.8665626,-15.7639513,0.0 -47.8662341,-15.7643991,0.0 -47.8655005,-15.764354,0.0 -47.8651893,-15.763928,0.0 -47.865884,-15.7634866,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Area_PAT_PJC_IPol_CIC</name>
+				<description><![CDATA[Grande área PAT, PJC, IPol/IRel/CIC/Est]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8708817,-15.7601263,0.0 -47.8700065,-15.7598908,0.0 -47.8677964,-15.7592145,0.0 -47.8694648,-15.7574953,0.0 -47.869851,-15.7575262,0.0 -47.8701138,-15.7574127,0.0 -47.8703552,-15.757392,0.0 -47.8715998,-15.7577224,0.0 -47.8708817,-15.7601263,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SubArea_PAT</name>
+				<description><![CDATA[Sub-Área PAT]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.871589,-15.7577637,0.0 -47.8708817,-15.7601263,0.0 -47.8702613,-15.7599566,0.0 -47.8703901,-15.7595397,0.0 -47.8707469,-15.7582955,0.0 -47.8706423,-15.7582696,0.0 -47.8708515,-15.7575553,0.0 -47.871589,-15.7577637,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>PAT_UnB</name>
+				<description><![CDATA[Pavilhão Anísio Teixeira - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8707469,-15.7582955,0.0 -47.8711814,-15.7584168,0.0 -47.8708166,-15.7596559,0.0 -47.8703901,-15.7595397,0.0 -47.8707469,-15.7582955,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac_PAT_Norte</name>
+				<description><![CDATA[Estacionamento Norte do PAT]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8714221,-15.7583213,0.0 -47.8713799,-15.7584736,0.0 -47.8706423,-15.7582696,0.0 -47.8706851,-15.7581206,0.0 -47.8714221,-15.7583213,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac_PAT_Oeste</name>
+				<description><![CDATA[Estacionamento Oeste PAT]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8711814,-15.7584168,0.0 -47.8713799,-15.7584736,0.0 -47.8710071,-15.7597126,0.0 -47.8708166,-15.7596559,0.0 -47.8711814,-15.7584168,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Masc_Norte</name>
+				<description><![CDATA[Módulo de Atividades de Serviço e Comércio Norte - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.871589,-15.7577637,0.0 -47.8714221,-15.7583213,0.0 -47.8706851,-15.7581206,0.0 -47.8708515,-15.7575643,0.0 -47.871589,-15.7577637,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Acesso_PAT_PJC_Sul</name>
+				<description><![CDATA[Acesso PAT Sul]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8710071,-15.7597126,0.0 -47.87094,-15.7599115,0.0 -47.8704894,-15.7598005,0.0 -47.8704357,-15.7600018,0.0 -47.8702613,-15.7599566,0.0 -47.8703901,-15.7595397,0.0 -47.8710071,-15.7597126,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>P_Onibus_PAT_PJC</name>
+				<description><![CDATA[Parada de Onibus PAT/PJC]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8704357,-15.7600018,0.0 -47.8704894,-15.7598005,0.0 -47.87094,-15.7599115,0.0 -47.8708817,-15.7601263,0.0 -47.8704357,-15.7600018,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SubArea_PJC</name>
+				<description><![CDATA[Sub-Área PJC]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8708515,-15.7575553,0.0 -47.8706423,-15.7582696,0.0 -47.8707469,-15.7582955,0.0 -47.8703901,-15.7595397,0.0 -47.8702613,-15.7599566,0.0 -47.8694258,-15.7597089,0.0 -47.8700514,-15.7574895,0.0 -47.8700297,-15.7574807,0.0 -47.8700778,-15.7574512,0.0 -47.8701675,-15.757432,0.0 -47.8703392,-15.7574249,0.0 -47.8708515,-15.7575553,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>PJC_UnB</name>
+				<description><![CDATA[Pavilhão João Calmon - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8706388,-15.7578986,0.0 -47.8702748,-15.7591474,0.0 -47.8698242,-15.7590235,0.0 -47.8701889,-15.7577748,0.0 -47.8706388,-15.7578986,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac_PJC_Sul</name>
+				<description><![CDATA[Estacionamento Sul do Pavilhão João Calmon]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8703687,-15.7591758,0.0 -47.8702506,-15.7596352,0.0 -47.8695043,-15.7594352,0.0 -47.8696257,-15.7589718,0.0 -47.8703687,-15.7591758,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac_PAT_PJC</name>
+				<description><![CDATA[Estacionamento PAT PJC]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8707381,-15.7579257,0.0 -47.8706423,-15.7582696,0.0 -47.8707469,-15.7582955,0.0 -47.8703505,-15.759663,0.0 -47.8702506,-15.7596352,0.0 -47.8703687,-15.7591758,0.0 -47.8702748,-15.7591474,0.0 -47.8706388,-15.7578986,0.0 -47.8707381,-15.7579257,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac_PJC_PAT_Norte</name>
+				<description><![CDATA[Estacionamento Norte PJC e PAT - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8701675,-15.757432,0.0 -47.8702406,-15.757423,0.0 -47.8703392,-15.7574249,0.0 -47.8708515,-15.7575553,0.0 -47.8707381,-15.7579257,0.0 -47.8700803,-15.757745,0.0 -47.8701675,-15.757432,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac_PJC_IPol_IRel</name>
+				<description><![CDATA[Estacionamento PJC, IPol e IRel]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8698242,-15.7590235,0.0 -47.8696257,-15.7589718,0.0 -47.8700514,-15.7574895,0.0 -47.8700297,-15.7574807,0.0 -47.8700778,-15.7574512,0.0 -47.8701675,-15.757432,0.0 -47.8700803,-15.757745,0.0 -47.8701889,-15.7577748,0.0 -47.8698242,-15.7590235,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Frente_PJC</name>
+				<description><![CDATA[Gramado em frente ao PJC]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8703505,-15.759663,0.0 -47.8702613,-15.7599566,0.0 -47.8694258,-15.7597089,0.0 -47.8695043,-15.7594352,0.0 -47.8703505,-15.759663,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SubArea_IPol_IRel_CIC_Est</name>
+				<description><![CDATA[Sub-Área IPol/IRel/CIC/Est]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8700297,-15.7574807,0.0 -47.8700514,-15.7574895,0.0 -47.8694258,-15.7597089,0.0 -47.8677964,-15.7592145,0.0 -47.8681076,-15.7589137,0.0 -47.8694178,-15.7575985,0.0 -47.8694701,-15.7576101,0.0 -47.8695211,-15.7575908,0.0 -47.869556,-15.7575624,0.0 -47.8698631,-15.757565,0.0 -47.8700297,-15.7574807,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>IPol_IRel_UnB</name>
+				<description><![CDATA[Institutos de Ciência Política e Relações Internacionais - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8692394,-15.7585846,0.0 -47.8694621,-15.757725,0.0 -47.8699449,-15.7578489,0.0 -47.8697008,-15.7587085,0.0 -47.8692394,-15.7585846,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CIC_Est_UnB</name>
+				<description><![CDATA[Prédio de Ciência da Computação e Estatística  - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8690892,-15.7591035,0.0 -47.8686762,-15.7590054,0.0 -47.8688693,-15.758249,0.0 -47.8693038,-15.7583549,0.0 -47.8690892,-15.7591035,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac_Acesso_CIC_Est</name>
+				<description><![CDATA[Estacionamento e acesso ao CIC/Est]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8692394,-15.7585846,0.0 -47.8697008,-15.7587085,0.0 -47.8695043,-15.7594352,0.0 -47.8690383,-15.75931,0.0 -47.8692394,-15.7585846,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Area_Centro_Comunitario</name>
+				<description><![CDATA[Área do Centro Comunitário]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8694648,-15.7574953,0.0 -47.8677964,-15.7592145,0.0 -47.8672386,-15.7599786,0.0 -47.8660905,-15.7590544,0.0 -47.8685796,-15.7565195,0.0 -47.8691053,-15.7569945,0.0 -47.8690249,-15.7570822,0.0 -47.8694648,-15.7574953,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>AthosBulcao</name>
+				<description><![CDATA[Centro Comunitário Athos Bulcão - UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8689444,-15.7579031,0.0 -47.8683061,-15.7585485,0.0 -47.867893,-15.7581355,0.0 -47.8685045,-15.7575262,0.0 -47.8689444,-15.7579031,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estac_Centro_Comunitario</name>
+				<description><![CDATA[Estacionamento Centro Comunitário Athos Bulcão]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8685796,-15.7565195,0.0 -47.8691053,-15.7569945,0.0 -47.8685528,-15.7575675,0.0 -47.8685045,-15.7575262,0.0 -47.867893,-15.7581355,0.0 -47.8679788,-15.7582206,0.0 -47.8674102,-15.7587731,0.0 -47.8668711,-15.7582619,0.0 -47.8685796,-15.7565195,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Area_PRC_Colina_FACE</name>
+				<description><![CDATA[Área PRC/Colina/FACE]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8730965,-15.7581406,0.0 -47.8735042,-15.7567157,0.0 -47.8756553,-15.7537677,0.0 -47.8767872,-15.7542995,0.0 -47.8746521,-15.7611557,0.0 -47.8729195,-15.760673,0.0 -47.8708817,-15.7601263,0.0 -47.8715998,-15.7577224,0.0 -47.8720745,-15.7577999,0.0 -47.8726029,-15.7580477,0.0 -47.8730965,-15.7581406,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SubArea_FACE</name>
+				<description><![CDATA[Sub-área FACE]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8708817,-15.7601263,0.0 -47.8715998,-15.7577224,0.0 -47.8720745,-15.7577999,0.0 -47.8726029,-15.7580477,0.0 -47.8730965,-15.7581406,0.0 -47.8729195,-15.760673,0.0 -47.8708817,-15.7601263,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SubArea_PRC_Colina</name>
+				<description><![CDATA[Sub-Área PRC/Colina]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8767872,-15.7542995,0.0 -47.8746521,-15.7611557,0.0 -47.8729195,-15.760673,0.0 -47.8730965,-15.7581406,0.0 -47.8735042,-15.7567157,0.0 -47.8755856,-15.7538038,0.0 -47.8767872,-15.7542995,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Alexander</name>
+			<Placemark>
+				<name>Area_Faculdade_de_Tecnologia</name>
+				<description><![CDATA[Área Completa da FT]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8746548,-15.7611525,0.0 -47.8734747,-15.7651897,0.0 -47.871404,-15.763788,0.0 -47.8719619,-15.7630059,0.0 -47.872316,-15.7624122,0.0 -47.872552,-15.7618546,0.0 -47.8729222,-15.7606678,0.0 -47.8746548,-15.7611525,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_menor_FT</name>
+				<description><![CDATA[Estacionamento Secundário da FT]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8727719,-15.7628517,0.0 -47.8722087,-15.7626038,0.0 -47.8723133,-15.7624154,0.0 -47.8724581,-15.762076,0.0 -47.8725734,-15.7618301,0.0 -47.8726458,-15.7615636,0.0 -47.8727558,-15.7613105,0.0 -47.8729838,-15.7614241,0.0 -47.8733969,-15.7616203,0.0 -47.8730535,-15.7622682,0.0 -47.8727719,-15.7628517,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>UnB_Lab_de_Energia</name>
+				<description><![CDATA[Laboratório de Energia]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8739749,-15.7620217,0.0 -47.8738139,-15.7624296,0.0 -47.8733969,-15.7622941,0.0 -47.8735833,-15.7618694,0.0 -47.8739749,-15.7620217,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_Principal_FT</name>
+				<description><![CDATA[Estacionamento Principal da FT]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8733486,-15.7635383,0.0 -47.8736061,-15.7628981,0.0 -47.8731502,-15.7627303,0.0 -47.8732199,-15.7625018,0.0 -47.8732923,-15.7622605,0.0 -47.8738139,-15.7624296,0.0 -47.8742391,-15.7625754,0.0 -47.8734747,-15.7651897,0.0 -47.8731018,-15.7649283,0.0 -47.872796,-15.7647231,0.0 -47.8733486,-15.7635383,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Lab_de_Hidraulica_e_Estrut</name>
+				<description><![CDATA[Laboratório de Hidráulica e Estruturas]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8736061,-15.7628981,0.0 -47.8733996,-15.7634118,0.0 -47.8731421,-15.7632956,0.0 -47.8732467,-15.7630555,0.0 -47.8733566,-15.7627974,0.0 -47.8736061,-15.7628981,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Faculdade_de_Tecnologia</name>
+				<description><![CDATA[FT - Faculdade de Tecnologia]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8722435,-15.7627225,0.0 -47.8732145,-15.7631175,0.0 -47.8731421,-15.7632956,0.0 -47.8733996,-15.7634118,0.0 -47.8731488,-15.7639694,0.0 -47.8728094,-15.7647024,0.0 -47.8714925,-15.7638093,0.0 -47.8722435,-15.7627225,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Passagem_Pedestres_FT</name>
+				<description><![CDATA[Passagem dos Pedestres da FT]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8746521,-15.7611557,0.0 -47.8743759,-15.7621005,0.0 -47.8727558,-15.7613105,0.0 -47.8729195,-15.760673,0.0 -47.8746521,-15.7611557,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SGs_e_Artes</name>
+				<description><![CDATA[Área dos SGs e Prédios das Artes]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8714053,-15.763788,0.0 -47.873476,-15.7651897,0.0 -47.8728349,-15.7679394,0.0 -47.8698898,-15.7659415,0.0 -47.8714053,-15.763788,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SG_11</name>
+				<description><![CDATA[SG 11]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8726083,-15.765624,0.0 -47.8723425,-15.7660105,0.0 -47.8720987,-15.76637,0.0 -47.8717433,-15.7661687,0.0 -47.8720263,-15.7657763,0.0 -47.8722771,-15.7654291,0.0 -47.8726083,-15.765624,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SG_12</name>
+				<description><![CDATA[SG 12]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8729033,-15.7648031,0.0 -47.8724125,-15.7655104,0.0 -47.872088,-15.765322,0.0 -47.8725815,-15.7645837,0.0 -47.8729033,-15.7648031,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_SG11</name>
+				<description><![CDATA[Estacionamento do SG 11]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8717433,-15.7661687,0.0 -47.8715663,-15.7660628,0.0 -47.872088,-15.765322,0.0 -47.8722771,-15.7654291,0.0 -47.8717433,-15.7661687,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_SG12</name>
+				<description><![CDATA[Estacionamento do SG 12]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8726083,-15.765624,0.0 -47.8724125,-15.7655104,0.0 -47.8729033,-15.7648031,0.0 -47.8731018,-15.7649283,0.0 -47.8726083,-15.765624,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SG_2</name>
+				<description><![CDATA[SG 2]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8719002,-15.7641242,0.0 -47.8713584,-15.7648625,0.0 -47.8708917,-15.7645476,0.0 -47.871404,-15.763788,0.0 -47.8719002,-15.7641242,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Auditorio_de_Musica</name>
+				<description><![CDATA[Auditório de Música]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8719002,-15.7641242,0.0 -47.8721684,-15.7642998,0.0 -47.8718626,-15.7647179,0.0 -47.8716052,-15.7645321,0.0 -47.8719002,-15.7641242,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_SG2/8</name>
+				<description><![CDATA[Estacionamento do SG 2 e SG 8]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8712055,-15.7652341,0.0 -47.8706691,-15.7648651,0.0 -47.8708917,-15.7645476,0.0 -47.8714228,-15.7649115,0.0 -47.8712055,-15.7652341,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SG_8</name>
+				<description><![CDATA[SG 8]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8718626,-15.7647179,0.0 -47.8713986,-15.7653646,0.0 -47.8712055,-15.7652341,0.0 -47.8714228,-15.7649115,0.0 -47.8713584,-15.7648625,0.0 -47.8716052,-15.7645321,0.0 -47.8718626,-15.7647179,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SG_10</name>
+				<description><![CDATA[SG 10]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8721684,-15.7642998,0.0 -47.8725815,-15.7645837,0.0 -47.8719538,-15.7655233,0.0 -47.8715032,-15.7652239,0.0 -47.8721684,-15.7642998,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_SG10</name>
+				<description><![CDATA[Estacionamento do SG 10]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8719538,-15.7655233,0.0 -47.8718305,-15.7656885,0.0 -47.8713986,-15.7653646,0.0 -47.8715032,-15.7652239,0.0 -47.8719538,-15.7655233,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>SG_9</name>
+				<description><![CDATA[SG 9]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8718787,-15.7662486,0.0 -47.8713772,-15.7669482,0.0 -47.8710634,-15.7667365,0.0 -47.8715663,-15.7660628,0.0 -47.8718787,-15.7662486,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_SG9</name>
+				<description><![CDATA[Estacionamento do SG 9]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8718787,-15.7662486,0.0 -47.8725681,-15.7666333,0.0 -47.8720558,-15.7674051,0.0 -47.8713772,-15.7669482,0.0 -47.8718787,-15.7662486,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Observatorio_Sismologico</name>
+				<description><![CDATA[Observatório Sismológico]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8731018,-15.7649283,0.0 -47.8734747,-15.7651897,0.0 -47.8731769,-15.7664784,0.0 -47.8723562,-15.7659724,0.0 -47.8731018,-15.7649283,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>APOSFUB/EX_UNB</name>
+				<description><![CDATA[Associação dos Aposentados da FUB/Associação dos Ex-Alunos]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8720987,-15.76637,0.0 -47.8723562,-15.7659724,0.0 -47.8731769,-15.7664784,0.0 -47.873075,-15.766912,0.0 -47.8720987,-15.76637,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Restaurante_ADUnB</name>
+				<description><![CDATA[Restaurante da ADUnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.873075,-15.766912,0.0 -47.8728349,-15.7679394,0.0 -47.8720558,-15.7674051,0.0 -47.8725681,-15.7666333,0.0 -47.873075,-15.766912,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Concha_Acustica/Praca</name>
+				<description><![CDATA[Área da Concha Acústica e Praça da Música]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8715971,-15.7655104,0.0 -47.8708139,-15.7665636,0.0 -47.8703123,-15.7662228,0.0 -47.8711143,-15.7651697,0.0 -47.8715971,-15.7655104,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Departamento_de_Artes_Cenicas</name>
+				<description><![CDATA[Departamento de Artes Cênicas]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8718305,-15.7656885,0.0 -47.8710634,-15.7667365,0.0 -47.8708139,-15.7665636,0.0 -47.8715971,-15.7655104,0.0 -47.8718305,-15.7656885,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Instituto_de_Artes</name>
+				<description><![CDATA[Instituto de Artes]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8711143,-15.7651697,0.0 -47.8703123,-15.7662228,0.0 -47.8698898,-15.7659415,0.0 -47.8706691,-15.7648651,0.0 -47.8711143,-15.7651697,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Departamento_Artes_Cenicas</name>
+				<description><![CDATA[Departamento de Artes Cênicas]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8718305,-15.7656885,0.0 -47.8710634,-15.7667365,0.0 -47.8708139,-15.7665636,0.0 -47.8715971,-15.7655104,0.0 -47.8718305,-15.7656885,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Faculdade_de_Educacao</name>
+				<description><![CDATA[Faculdade de Educação]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8724474,-15.7676864,0.0 -47.8718305,-15.7685537,0.0 -47.8713155,-15.7681924,0.0 -47.8719431,-15.7673457,0.0 -47.8724474,-15.7676864,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Educacao</name>
+				<description><![CDATA[Área dos Prédios da Educação/Bancos/Correio]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8698898,-15.7659415,0.0 -47.8728349,-15.7679394,0.0 -47.871927,-15.7731535,0.0 -47.8682873,-15.7681588,0.0 -47.8698898,-15.7659415,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Castelo_d'Agua</name>
+				<description><![CDATA[Castelo D'Água]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8724796,-15.7697773,0.0 -47.8722006,-15.7712589,0.0 -47.8714174,-15.7702057,0.0 -47.8719485,-15.7693642,0.0 -47.8724796,-15.7697773,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Banco_Santander</name>
+				<description><![CDATA[Banco Santander]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.870594,-15.7666023,0.0 -47.8703177,-15.7669662,0.0 -47.8701621,-15.7668449,0.0 -47.8704223,-15.7664887,0.0 -47.870594,-15.7666023,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Auditorio_dois_Candangos</name>
+				<description><![CDATA[Auditório Dois Candangos]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8718305,-15.7685537,0.0 -47.8710258,-15.7696637,0.0 -47.8706288,-15.7691319,0.0 -47.8713155,-15.7681924,0.0 -47.8718305,-15.7685537,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Quadra_Jose_Honorio</name>
+				<description><![CDATA[Quadra José Honório]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8708193,-15.7667572,0.0 -47.8705242,-15.7671263,0.0 -47.8703177,-15.7669662,0.0 -47.870594,-15.7666023,0.0 -47.8708193,-15.7667572,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Departamento_de_Planej_e_Adm</name>
+				<description><![CDATA[Departamento de Planejamento e Admnistração]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8710741,-15.7676451,0.0 -47.8715435,-15.7670643,0.0 -47.8719431,-15.7673457,0.0 -47.8715006,-15.7679342,0.0 -47.8710741,-15.7676451,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Departamento_de_Metodos_e_Tecnicas</name>
+				<description><![CDATA[Departamento de Métodos e Técnicas]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8715006,-15.7679342,0.0 -47.8706288,-15.7691319,0.0 -47.8702855,-15.7686776,0.0 -47.8710741,-15.7676451,0.0 -47.8715006,-15.7679342,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>BSAS</name>
+				<description><![CDATA[Bloco de Salas Sul]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8705108,-15.7663803,0.0 -47.8695184,-15.7676761,0.0 -47.8690892,-15.7670669,0.0 -47.8698898,-15.7659415,0.0 -47.8705108,-15.7663803,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Correios</name>
+				<description><![CDATA[Correios]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.869285,-15.7673431,0.0 -47.8690892,-15.7670669,0.0 -47.869277,-15.7668139,0.0 -47.8695104,-15.7670308,0.0 -47.869285,-15.7673431,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Restaurante_Belo_Sabor</name>
+				<description><![CDATA[Restaurante Belo Sabor]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8701661,-15.7666875,0.0 -47.8699878,-15.7665623,0.0 -47.8700495,-15.7664655,0.0 -47.8702372,-15.7665971,0.0 -47.8701661,-15.7666875,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Praca_Chico_e_SINFTUB</name>
+				<description><![CDATA[Praça Chico Mendes e SINFTUB(Sindicato dos Servidores Técnico-administrativos da FUB)]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8701661,-15.7666875,0.0 -47.8700776,-15.7668256,0.0 -47.8698644,-15.7666862,0.0 -47.8699583,-15.7665623,0.0 -47.8701661,-15.7666875,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>BrB</name>
+				<description><![CDATA[Banco de Brasília]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8698309,-15.7669495,0.0 -47.8696874,-15.7668746,0.0 -47.8697973,-15.7667494,0.0 -47.8699315,-15.7668281,0.0 -47.8698309,-15.7669495,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Sicoob_Judiciario</name>
+				<description><![CDATA[Sicoob Judiciário]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8698282,-15.7665132,0.0 -47.8697048,-15.7664461,0.0 -47.8697893,-15.7663235,0.0 -47.869914,-15.7663958,0.0 -47.8698282,-15.7665132,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>NEPPE</name>
+				<description><![CDATA[Núcleo de Ensino e Pesquisa em Português para Estrangeiros - NEPPE]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8697263,-15.767125,0.0 -47.8695962,-15.7670592,0.0 -47.869674,-15.7669508,0.0 -47.8698,-15.767023,0.0 -47.8697263,-15.767125,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_
+Departamento_de_Metodos_e_Tecnicas</name>
+				<description><![CDATA[Estacionamento do Prédio do <br>Departamento de Metodos e Técnicas]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8710741,-15.7676451,0.0 -47.870653,-15.7681898,0.0 -47.8701407,-15.7677793,0.0 -47.8705189,-15.7672889,0.0 -47.8710741,-15.7676451,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>PMU_II</name>
+				<description><![CDATA[Pavilhão Multiuso II]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8695184,-15.7676761,0.0 -47.8686976,-15.7687138,0.0 -47.8682873,-15.7681588,0.0 -47.8690892,-15.7670669,0.0 -47.8695184,-15.7676761,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_CET</name>
+				<description><![CDATA[Estacionamento Centro de  Excelência em Turismo]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8714389,-15.770229,0.0 -47.8712726,-15.7703245,0.0 -47.8700978,-15.7687551,0.0 -47.8702855,-15.7686776,0.0 -47.8714389,-15.770229,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CET</name>
+				<description><![CDATA[Centro de Excelência em Turismo]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8712726,-15.7703245,0.0 -47.8703499,-15.7709827,0.0 -47.8690624,-15.7692145,0.0 -47.8700978,-15.7687551,0.0 -47.8712726,-15.7703245,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Passagem_dos_Pedestres</name>
+				<description><![CDATA[Passagem dos Pedestres da UnB]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8702855,-15.7686776,0.0 -47.8690624,-15.7692145,0.0 -47.8686976,-15.7687138,0.0 -47.8695184,-15.7676761,0.0 -47.8702855,-15.7686776,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Fiocruz</name>
+				<description><![CDATA[Fundação Oswaldo Cruz]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8714389,-15.770229,0.0 -47.8722006,-15.7712589,0.0 -47.871927,-15.7731535,0.0 -47.8703499,-15.7709827,0.0 -47.8714389,-15.770229,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Univ_Aber_SUS</name>
+				<description><![CDATA[Universidade Aberta do SUS UNA]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8710607,-15.7713079,0.0 -47.8709266,-15.7710446,0.0 -47.8711626,-15.7708975,0.0 -47.871345,-15.7711272,0.0 -47.8710607,-15.7713079,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_Faculdade_de_Educação</name>
+				<description><![CDATA[Estacionamento da Faculdade de Educação]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8722435,-15.7679755,0.0 -47.8724635,-15.7681149,0.0 -47.8718144,-15.7690597,0.0 -47.8715891,-15.7689048,0.0 -47.8722435,-15.7679755,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Victor</name>
+			<Placemark>
+				<name>Instituto_Biologia</name>
+				<description><![CDATA[Instituto de Ciências Biológicas]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8661549,-15.7655026,0.0 -47.8663587,-15.7660654,0.0 -47.8660557,-15.7663158,0.0 -47.8660101,-15.7667159,0.0 -47.8646475,-15.7675832,0.0 -47.8637999,-15.7664319,0.0 -47.8652161,-15.7655439,0.0 -47.8656292,-15.7654458,0.0 -47.8661549,-15.7655026,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Biologicas_Quimica_FS</name>
+				<styleUrl>#poly-000000-1-77-nodesc</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.86829,-15.7681433,0.0 -47.8663427,-15.7708279,0.0 -47.8638456,-15.7711273,0.0 -47.8633239,-15.7672773,0.0 -47.8630416,-15.7653497,0.0 -47.8628236,-15.7634324,0.0 -47.8647629,-15.7633549,0.0 -47.8663776,-15.7655271,0.0 -47.86829,-15.7681433,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_FS_1</name>
+				<description><![CDATA[Estacionamento da Faculdade de Saúde/Faculdade de Medicina]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8676006,-15.7689383,0.0 -47.8665063,-15.770469,0.0 -47.8661898,-15.7702651,0.0 -47.8673056,-15.7687551,0.0 -47.8676006,-15.7689383,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_FS_2</name>
+				<description><![CDATA[Estacionamento da Faculdade de Saúde/Faculdade de Medicina]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8665948,-15.7669792,0.0 -47.8660476,-15.7678103,0.0 -47.8656507,-15.7675677,0.0 -47.8662837,-15.7667675,0.0 -47.8665948,-15.7669792,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Ponto_Onibus</name>
+				<description><![CDATA[Ponto de Ônibus da Faculdade de Sáude/Faculdade de Medicina]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8672841,-15.7695165,0.0 -47.8670964,-15.7697979,0.0 -47.8670213,-15.7697592,0.0 -47.8672198,-15.769483,0.0 -47.8672841,-15.7695165,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>BSA_Sul</name>
+				<description><![CDATA[Bloco de salas ala sul]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8667718,-15.7670824,0.0 -47.8665519,-15.7668501,0.0 -47.8668067,-15.7666488,0.0 -47.8665425,-15.7663467,0.0 -47.8667182,-15.7661996,0.0 -47.8671366,-15.7667004,0.0 -47.8667718,-15.7670824,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Instituto_Quimica</name>
+				<description><![CDATA[Instituto de Química]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8655032,-15.7681665,0.0 -47.8647065,-15.7692688,0.0 -47.8641218,-15.7688764,0.0 -47.8649533,-15.7677897,0.0 -47.8655032,-15.7681665,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_IB</name>
+				<description><![CDATA[Estacionamento do Instituto de Biologia]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.863875,-15.7665584,0.0 -47.8645992,-15.7675831,0.0 -47.8641808,-15.7679033,0.0 -47.8638428,-15.7675057,0.0 -47.8638563,-15.7669533,0.0 -47.8636819,-15.7666617,0.0 -47.863875,-15.7665584,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_IQ</name>
+				<description><![CDATA[Estacionamento do Instituto de Química]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8658008,-15.768435,0.0 -47.8647548,-15.7698805,0.0 -47.8638482,-15.7692919,0.0 -47.8641513,-15.7689267,0.0 -47.8647011,-15.7693153,0.0 -47.8655218,-15.7682698,0.0 -47.8658008,-15.768435,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Faculdade_de_saude</name>
+				<description><![CDATA[Faculdade de Sáude/Faculdade de Medicina]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.867496,-15.7686621,0.0 -47.8673458,-15.7685744,0.0 -47.8667182,-15.769421,0.0 -47.8657687,-15.7688015,0.0 -47.8666431,-15.7673044,0.0 -47.8676087,-15.7681356,0.0 -47.8674531,-15.7684195,0.0 -47.867673,-15.7685744,0.0 -47.867496,-15.7686621,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_bsa_sul_ib</name>
+				<description><![CDATA[Estacionamento do BSA Sul e Instituto de Ciências Biológicas]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8666699,-15.7661893,0.0 -47.8664446,-15.7663958,0.0 -47.8666645,-15.7666694,0.0 -47.8664821,-15.7668036,0.0 -47.8662461,-15.766752,0.0 -47.8648996,-15.7677277,0.0 -47.8647763,-15.7675676,0.0 -47.8660101,-15.7667159,0.0 -47.8661657,-15.7664164,0.0 -47.866568,-15.766055,0.0 -47.8666699,-15.7661893,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CPD_CESPE</name>
+				<description><![CDATA[Centro de Informática e Centro de Seleção e de Promoção de Eventos]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8663427,-15.7708279,0.0 -47.8664098,-15.7751255,0.0 -47.8648889,-15.7751875,0.0 -47.8645027,-15.7742376,0.0 -47.8643579,-15.7735562,0.0 -47.864095,-15.7729057,0.0 -47.8638456,-15.7711273,0.0 -47.8663427,-15.7708279,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CPD</name>
+				<description><![CDATA[Centro de Informática]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8660651,-15.7726502,0.0 -47.8660651,-15.7728476,0.0 -47.8654897,-15.7728515,0.0 -47.8654911,-15.7726579,0.0 -47.8660651,-15.7726502,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_cpd</name>
+				<description><![CDATA[Estacionamento do Centro de Infomática]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8654897,-15.7728515,0.0 -47.8660651,-15.7728476,0.0 -47.8660651,-15.7726502,0.0 -47.8663239,-15.7726527,0.0 -47.8663185,-15.7729496,0.0 -47.8654884,-15.7729535,0.0 -47.8654897,-15.7728515,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>Estacionamento_CESPE</name>
+				<description><![CDATA[Estacionamento do CESPE]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8663105,-15.7720462,0.0 -47.866171,-15.7720178,0.0 -47.8657955,-15.7725521,0.0 -47.8655246,-15.7724359,0.0 -47.8660396,-15.7717493,0.0 -47.8663185,-15.7719171,0.0 -47.8663105,-15.7720462,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+			<Placemark>
+				<name>CESPE</name>
+				<description><![CDATA[Centro de Seleção e de Promoção de Eventos]]></description>
+				<styleUrl>#poly-000000-1-77</styleUrl>
+				<Polygon>
+					<outerBoundaryIs>
+						<LinearRing>
+							<tessellate>1</tessellate>
+							<coordinates>-47.8660101,-15.7716951,0.0 -47.8656292,-15.772232,0.0 -47.8654549,-15.7721029,0.0 -47.8652725,-15.7723482,0.0 -47.8648406,-15.7724979,0.0 -47.8647119,-15.772374,0.0 -47.8645939,-15.7720694,0.0 -47.8650042,-15.7715248,0.0 -47.8651759,-15.771468,0.0 -47.8656775,-15.771819,0.0 -47.8658491,-15.7715893,0.0 -47.8660101,-15.7716951,0.0</coordinates>
+						</LinearRing>
+					</outerBoundaryIs>
+				</Polygon>
+			</Placemark>
+		</Folder>
+		<Style id='poly-000000-1-77-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<Style id='poly-000000-1-77-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+		</Style>
+		<StyleMap id='poly-000000-1-77'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-000000-1-77-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-000000-1-77-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='poly-000000-1-77-nodesc-normal'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>1</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='poly-000000-1-77-nodesc-highlight'>
+			<LineStyle>
+				<color>ff000000</color>
+				<width>2.0</width>
+			</LineStyle>
+			<PolyStyle>
+				<color>4D000000</color>
+				<fill>1</fill>
+				<outline>1</outline>
+			</PolyStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='poly-000000-1-77-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#poly-000000-1-77-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#poly-000000-1-77-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>
